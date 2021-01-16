@@ -897,9 +897,6 @@ deep learning models:
 
 ### Deep Matrix Factorization
 
-![image](/Users/miaohu/Plot_R/plot5.jpg){width="60%"}
-
-
 The DMF model can work well with the accuracy of users and items
 information, which is provided by the data preparation process. In the
 first process $data preparation process$, the implicit feedback is
