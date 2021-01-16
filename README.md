@@ -1,9 +1,9 @@
 # R-tutorial-on-Recommender-System
 
 ---
-- Author: Miao Hu, Guangmei Ye'
+- Author: Miao Hu, Guangmei Ye
 - Date: March 2020
-- Title: Tutorial of Recommender System\
+- Title: Tutorial of Recommender System
 ---
 
 Presentation of the problem
